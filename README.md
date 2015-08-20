@@ -2,7 +2,9 @@
 Simple class to manipulate lists (arrays) of objects in JavaScript
 
 ##Usage
-To use this class just include the file using &lt;script&gt; tag. All comments in file placed in Russian.
+<p>To use this class just include the file using &lt;script&gt; tag. </p>
+<code>&lt;script src="/assets/js/list-controller-1.1.0.js"&gt;&lt;/script&gt;</code>
+All comments in file placed in Russian.
 Use ListController variable to access functions:
 
 ### Get item(s) from list by id
